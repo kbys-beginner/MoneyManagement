@@ -11,6 +11,7 @@
         <item name="colorSecondary">@color/yellow</item>
         <item name="colorSecondaryVariant">@color/yellow</item>
         <item name="colorOnSecondary">@color/black</item>
+        <item name="fontFamily">@font/hannari</item>
     </style>
 
     <style name="Theme.MoneyManagement" parent="Base.Theme.MoneyManagement" />
